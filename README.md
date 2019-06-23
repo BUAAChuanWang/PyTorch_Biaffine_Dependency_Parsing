@@ -27,6 +27,6 @@ A re-implementation of [Deep Biaffine Attention for Neural Dependency Parsing ](
 - [https://github.com/zhangmeishan/BiaffineDParser](https://github.com/zhangmeishan/BiaffineDParser)
 
 # Question #
-- if you have any question, you can open a issue or email **mason.zms@gmail.com**、**yunan.hlju@gmail.com**、**bamtercelboo@{gmail.com, 163.com}**.
+- if you have any question, you can open a issue or email **bamtercelboo@{gmail.com, 163.com}**.
 
 - if you have any good suggestions, you can PR or email me.
