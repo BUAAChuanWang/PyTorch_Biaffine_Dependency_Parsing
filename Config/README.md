@@ -1,4 +1,4 @@
-## Chinese-NER Task Config ##
+## Config ##
 
 - Use `ConfigParser` to config parameter  
 	- `from configparser import ConfigParser`  .
@@ -55,8 +55,6 @@
 - [Train]
 
 	- `num-threads` (Integer) ------ threads.
-
-	- `use-cuda` (True or False) ------ support `cuda` speed up.
 
 	- `epochs` (Integer) ------ train epochs
 
